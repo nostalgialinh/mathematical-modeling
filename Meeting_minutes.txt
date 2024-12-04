@@ -1,0 +1,160 @@
+Meeting Minutes: Mathematical Modeling Project
+
+Date: 16/11/2023
+Time: 21:00 - 24:00
+Location: Online
+
+Attendees:
+1. Tran Gia Linh 28%
+2. Huynh Ngoc Van 28%
+3. Nguyen Thuy Tien 28%
+4. Che Thanh Vy 10%
+5. Nguyen Huu Tri 6%
+
+
+- Read and understand 2 QUESTIONS for
+ASSIGNMENT 2023
+- Learn the basic concept of Stochastic Programming and Optimization
+- Study the concept of Two-stage stochastic
+programming?
+- Watch video about Two-Stage Stochastic LP
+Formulation: A Farming Example
+
+--------------------------------------------------------------------
+Date: 21/11/2023
+Time: 21:00 - 24:00
+Location: Online
+
+Attendees:
+1. Tran Gia Linh 20
+2. Huynh Ngoc Van 20
+3. Che Thanh Vy 20
+4. Nguyen Huu Tri 20
+5. Nguyen Thuy Tien 20
+
+- Reference for Problem 1 is A. Shapiro, D.
+Dentcheva, and A. Ruszczynski, Lectures on
+stochastic programming: modeling and theory.
+SIAM, 2021
+- Understand all the notation used in problem
+1
+- Analyse the second stage model of problem
+1 (objective function and system of constraints)
+- Analyse the first stage model of problem 1
+(objective function and system of constraints)
+
+--------------------------------------------------------------------
+Date: 22/11/2023
+Time: 21:00 - 24:00
+Location: Online
+
+Attendees:
+1. Tran Gia Linh 20
+2. Huynh Ngoc Van 20
+3. Che Thanh Vy 20
+4. Nguyen Huu Tri 20
+5. Nguyen Thuy Tien 20
+
+- Understand the main idea of the article
+- Learn the representation of the evacuation
+problem as a two-stage stochastic programming
+problem
+- Understand how to convert the multiple
+sources and sinks network into single supersource and super-sink
+- Understand the idea of min-cost flow problem
+in two-stage stochastic evacuation problem
+- Understand all the notations used in problem
+2
+
+--------------------------------------------------------------------
+
+Date: 27/11/2023
+Time: 21:00 - 24:00
+Location: Online
+
+Attendees:
+1. Tran Gia Linh 20
+2. Huynh Ngoc Van 20
+3. Che Thanh Vy 20
+4. Nguyen Huu Tri 20
+5. Nguyen Thuy Tien 20
+
+- Deeply understand binomial distribution for
+random demand vector
+- Build and deeply understand the objective
+function and each constraint of the model
+- Idea about randomly simulate data vector
+b, l, q, s and matrix A
+- Using Python to solve, optimization with PuLp
+package or Gurobi package
+--------------------------------------------------------------------
+
+Date: 06/12/2023
+Time: 21:00 - 24:00
+Location: Online
+
+Attendees:
+1. Tran Gia Linh 20
+2. Huynh Ngoc Van 20
+3. Che Thanh Vy 20
+4. Nguyen Huu Tri 20
+5. Nguyen Thuy Tien 20
+
+- Using Gurobi package for coding, building, and
+solving the numerical model of problem 1
+--------------------------------------------------------------------
+
+Date: 07/12/2023
+Time: 21:00 - 24:00
+Location: Online
+
+Attendees:
+1. Tran Gia Linh 20
+2. Huynh Ngoc Van 20
+3. Che Thanh Vy 20
+4. Nguyen Huu Tri 20
+5. Nguyen Thuy Tien 20
+
+- Understand Max-flow Min-cut Theorem and
+the way to build residual graph
+- Understand the Successive shortest path algorithm
+- Understand the Label correcting algorithm
+--------------------------------------------------------------------
+
+Date: 26/12/2023 to 29/12/2023
+Time: 14:00 - 16:00, 21:00 - 24:00
+Location: Online
+
+Attendees:
+1. Tran Gia Linh 20
+2. Huynh Ngoc Van 20
+3. Che Thanh Vy 20
+4. Nguyen Huu Tri 20
+5. Nguyen Thuy Tien 20
+
+- Using networkx and matplotlib.pyplot package
+to plot the grid network
+- Implement the label correcting algorithm
+- Implement the successive shortest path algorithm
+- Plot the flow graph from source node to the
+sink with min cost max flow
+- Make an outline for reporting problem 2
+
+--------------------------------------------------------------------
+
+Date: 01/01/2024 to 03/01/2024
+Time: 14:00 - 16:00, 21:00 - 24:00
+Location: Online
+
+Attendees:
+1. Tran Gia Linh 20
+2. Huynh Ngoc Van 20
+3. Che Thanh Vy 20
+4. Nguyen Huu Tri 20
+5. Nguyen Thuy Tien 20
+
+- Study the system constraints of sub-problem 2
+- Way to time tracking
+- Coding sub-problem 2 using python
+- Complete writing report
+--------------------------------------------------------------------
